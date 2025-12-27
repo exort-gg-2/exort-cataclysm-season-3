@@ -4,4 +4,6 @@
 
 # Exort Cataclysm Season 3
 
+
 ➡️ **[Read full announcement](announcement.md)**
+📝 **[Registration](registration.md)**
