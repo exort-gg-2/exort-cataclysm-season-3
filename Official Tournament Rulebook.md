@@ -87,8 +87,8 @@ Exort Cataclysm Season 3 spans **4 days**:
 - Hybrid seeding ensures balanced groups.
 
 **Group Format (GSL):**
-- **Opening Matches:** Best-of-1  
-- **Winners Match:** Best-of-1  
+- **Opening Matches:** Best-of-3  
+- **Winners Match:** Best-of-3  
 - **Elimination Match:** Best-of-3  
 - **Decider Match:** Best-of-3  
 
